@@ -2,14 +2,14 @@ def sum(a):
     return a[0]+a[1]+a[2]+a[3]+a[4]
 def mean(t,n):
     return (t/n)
-def meadian(a,n):
+def median(a,n):
     if n%2==0:
-        meadian1=a[n//2]
-        meadian2=a[n//2-1]
-        meadian=(meadian1+meadian2)/2
+        median1=a[n//2]
+        median2=a[n//2-1]
+        median=(median1+median2)/2
     else:
-        meadian=a[n//2]
-    return meadian
+        median=a[n//2]
+    return median
 def mode(a,n):
     freq={}
     for n in a:
