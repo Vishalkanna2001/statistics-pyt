@@ -20,7 +20,7 @@ setup(
         "Operating System :: OS Independent",
     ],
     install_requires=[],
-    url="https://github.com/Vishalkanna2001/mean-median-mode"
+    url="https://github.com/Vishalkanna2001/statistics"
     author='Vishal Kanna AJK',
     author_email='vishalkanna.k@outlook.com'
 )
