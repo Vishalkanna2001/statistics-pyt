@@ -5,7 +5,7 @@ A PyPI package that can be used to find the mean,median,and mode of the given nu
 Run the following to install:
 
 '''cmd
-pip install Statistics formulae
+pip install Statspackage
 '''
 
 # Team :

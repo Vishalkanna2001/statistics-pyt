@@ -1,7 +1,0 @@
-README.md
-setup.py
-src/stats.py
-src/Stats.egg-info/PKG-INFO
-src/Stats.egg-info/SOURCES.txt
-src/Stats.egg-info/dependency_links.txt
-src/Stats.egg-info/top_level.txt

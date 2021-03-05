@@ -4,12 +4,12 @@ with open('README.md', 'r') as file:
     long_description = file.read()
 
 setup(
-    name='Stats',
+    name='statspackage',
     version='1.1',
     description='To find Mean,Median,Mode of the given numbers',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    py_modules=['stats'],
+    py_modules=['statspackage'],
     package_dir={'': 'src'},
     classifiers=[
         "Programming Language :: Python :: 3.5",

@@ -1,6 +1,6 @@
-from src.stats import *
-a=[4,4,6,4,10]
-n=5
+from src.statspackage import *
+a=[]
+n=int(input())
 t=sum(a)
 m=mean(t,n)
 print ("mode of given numbers is",m)
